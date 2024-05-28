@@ -10,5 +10,5 @@ yeah
 
 ## Working Releases
 [v0.0.4 - **(soon)**](https://github.com/AridityTeam/BetaFortressClient-Releases/releases/tag/v0.0.4) \
-[v0.0.3 - **(latest)**](https://github.com/AridityTeam/BetaFortressClient-Releases/releases/tag/v0.0.3) \
+[v0.0.3](https://github.com/AridityTeam/BetaFortressClient-Releases/releases/tag/v0.0.3) \
 [v0.0.2](https://github.com/AridityTeam/BetaFortressClient-Releases/releases/tag/v0.0.2-beta)
