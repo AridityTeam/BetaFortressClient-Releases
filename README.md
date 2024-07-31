@@ -1,6 +1,7 @@
 # Beta Fortress Client releases
 yeah
-
+**NOTE: IT IS BROKEN, DOWNLOAD VIA GITHUB DESKTOP OR DOWNLOAD BF FILES [HERE](https://github.com/AridityTeam/bf/archive/refs/heads/main.zip)**
+ 
 
 **All releases**
 ![GitHub Downloads (all assets, all release)](https://img.shields.io/github/downloads/AridityTeam/BetaFortressClient-Releases/total)
